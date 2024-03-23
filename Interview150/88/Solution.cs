@@ -1,4 +1,4 @@
-﻿namespace Classic150._88;
+﻿namespace Interview150._88;
 
 public class Solution
 {

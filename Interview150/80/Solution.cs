@@ -1,15 +1,17 @@
-﻿namespace Classic150._26;
+﻿namespace Interview150._80;
 
-public class Solution {
+public class Solution
+{
     public int RemoveDuplicates(int[] nums)
     {
         int n = nums.Length;
-        if (n == 0) return 0;
+        if (n <= 2)
+            return n;
 
-        int slow = 1, fast = 1;
+        int slow = 2, fast = 2;
         while (fast < n)
         {
-            if (nums[fast] != nums[fast - 1])
+            if (nums[fast] != nums[slow - 2])
             {
                 nums[slow] = nums[fast];
                 slow++;

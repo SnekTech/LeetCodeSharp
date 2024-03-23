@@ -1,4 +1,4 @@
-﻿namespace Classic150._27;
+﻿namespace Interview150._27;
 
 public class Solution {
     public int RemoveElement(int[] nums, int val)

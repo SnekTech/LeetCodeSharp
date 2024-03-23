@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
 using NUnit.Framework;
 
-namespace Classic150._88;
+namespace Interview150._88;
 
 public class Test
 {
