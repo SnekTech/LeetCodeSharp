@@ -1,4 +1,6 @@
-﻿namespace Interview150._141;
+﻿using Interview150._2;
+
+namespace Interview150._141;
 
 /**
  * Definition for singly-linked list.
