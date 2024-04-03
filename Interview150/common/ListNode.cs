@@ -1,4 +1,4 @@
-﻿namespace Interview150._2;
+﻿namespace Interview150.common;
 
 public class ListNode
 {
