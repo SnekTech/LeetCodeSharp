@@ -1,6 +1,6 @@
 ﻿using Interview150.common;
 
-namespace Interview150._112;
+namespace Interview150.BinaryTree._112;
 
 public class Solution {
     public bool HasPathSum(TreeNode root, int targetSum)

@@ -1,6 +1,6 @@
 ﻿using Interview150.common;
 
-namespace Interview150._104;
+namespace Interview150.BinaryTree._104;
 
 public class Solution
 {

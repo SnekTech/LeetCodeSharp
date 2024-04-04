@@ -1,6 +1,6 @@
 ﻿using Interview150.common;
 
-namespace Interview150._106;
+namespace Interview150.BinaryTree._106;
 
 public class Solution {
     public TreeNode BuildTree(int[] inorder, int[] postorder)

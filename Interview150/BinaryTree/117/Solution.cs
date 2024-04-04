@@ -1,4 +1,4 @@
-﻿namespace Interview150._117;
+﻿namespace Interview150.BinaryTree._117;
 
 public class Solution
 {
