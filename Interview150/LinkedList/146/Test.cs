@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
 using NUnit.Framework;
 
-namespace Interview150._146;
+namespace Interview150.LinkedList._146;
 
 [TestFixture]
 public class Test

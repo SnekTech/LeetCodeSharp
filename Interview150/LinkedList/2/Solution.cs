@@ -1,6 +1,6 @@
 ﻿using Interview150.common;
 
-namespace Interview150._2;
+namespace Interview150.LinkedList._2;
 
 /**
  * Definition for singly-linked list.

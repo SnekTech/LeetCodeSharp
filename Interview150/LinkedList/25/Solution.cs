@@ -1,7 +1,6 @@
-﻿using Interview150._2;
-using Interview150.common;
+﻿using Interview150.common;
 
-namespace Interview150._25;
+namespace Interview150.LinkedList._25;
 
 public class Solution
 {

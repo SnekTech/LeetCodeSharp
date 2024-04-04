@@ -15,6 +15,7 @@
 
     <ItemGroup>
       <Folder Include="BinaryTree\" />
+      <Folder Include="LinkedList\" />
     </ItemGroup>
 
 </Project>

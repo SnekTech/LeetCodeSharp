@@ -1,4 +1,4 @@
-﻿namespace Interview150._146;
+﻿namespace Interview150.LinkedList._146;
 
 public class LRUCache
 {

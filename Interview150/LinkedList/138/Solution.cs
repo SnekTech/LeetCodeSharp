@@ -1,4 +1,4 @@
-﻿namespace Interview150._138;
+﻿namespace Interview150.LinkedList._138;
 
 public class Solution {
     public Node CopyRandomList(Node head)
